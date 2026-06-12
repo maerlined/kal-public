@@ -20,7 +20,7 @@ async function main(){
     col.innerHTML = `<h2>${stage}</h2>`;
     for(const p of items){
       const fr = freshness(p.last_commit_date);
-      const chips = ["energy_focus","energy_motivation","energy_scope"]
+      const chips = ["energy_focus","energy_motivation","energy_scope","energy_exposure","energy_cost"]
         .filter(k => p[k]).map(k => `<span class="chip">${p[k]}</span>`).join("");
       const card = document.createElement("div");
       card.className = "card";
