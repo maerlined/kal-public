@@ -3,15 +3,39 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
-  <title>kaleidoscope — project board</title>
+  <title>kaleidoscope — project observatory</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:ital,opsz,wght@0,9..144,400;0,9..144,600;1,9..144,500&family=Hanken+Grotesk:wght@400;500;600;700&family=JetBrains+Mono:wght@400;500;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
-  <header>
-    <h1>kaleidoscope</h1>
-    <p>current state of every tracked project · manually updated</p>
+  <div class="grain" aria-hidden="true"></div>
+  <div class="aurora" aria-hidden="true"></div>
+
+  <header class="masthead">
+    <div class="mast-left">
+      <h1>kaleidoscope<span class="dot">.</span></h1>
+      <p class="tagline">a manual observatory for everything in flight — turning creative chaos into patterned output</p>
+    </div>
+    <div class="mast-right">
+      <div class="legend">
+        <span class="legend-title">energy</span>
+        <span class="lg lg-act">activating</span>
+        <span class="lg lg-neu">neutral</span>
+        <span class="lg lg-dra">draining</span>
+      </div>
+      <p class="updated" id="updated"></p>
+    </div>
   </header>
+
   <main id="board" class="board"></main>
+
+  <footer class="foot">
+    <span id="count"></span>
+    <span>kal-private · generated · do not hand-edit</span>
+  </footer>
+
   <script src="app.js"></script>
 </body>
 </html>
