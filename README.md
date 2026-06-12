@@ -1,5 +1,7 @@
 # kal-public
 
+**Live dashboard:** <https://maerlined.github.io/kal-public/>
+
 Generated public dashboard for the private **kal-private** project-tracking hub
 (part of the `kaleidoscope` workspace).
 
