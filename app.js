@@ -98,6 +98,11 @@ function projectEl(p, i){
         <div>
           <h3>Energy</h3>
           <div class="energy">${energyRows(p)}</div>
+          <div class="energy-legend">
+            <span class="ek ek-act">activating</span>
+            <span class="ek ek-neu">neutral</span>
+            <span class="ek ek-dra">draining</span>
+          </div>
         </div>
       </div></div>
     </div>`;
