@@ -21,6 +21,27 @@
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
+    "id": "AFB-001",
+    "name": "affect-battery",
+    "stage": "live",
+    "type": "project",
+    "domain": "development",
+    "category": "other",
+    "group": "projects",
+    "energy_focus": "immersive",
+    "energy_motivation": "stack",
+    "energy_scope": "technical",
+    "energy_exposure": "public",
+    "energy_cost": "balanced",
+    "flavour": "Do AI feelings follow biology?",
+    "context": "Fork of DwayneWilkes/affect-battery \u2014 the eval harness for the Sentient Futures Incubator 'Affect Battery' study (lead Dwayne Wilkes, mentor Julia Bossmann). Tests whether AI emotional states follow biological patterns across 7 experiments (transfer, persistence, arousal, cognitive scope, hedging, base-vs-instruct asymmetry). Mature Python harness, ~800 tests, prereg + live dashboards. Fork is currently even with upstream \u2014 following/contributing.",
+    "last_work": "Tracking upstream; latest is the h3b_calibrated_v3 effort-headroom bank + builder band override. No local commits yet \u2014 fork sits even with upstream.",
+    "branch": "main",
+    "last_commit_date": "2026-05-10",
+    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
+    "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
+  },
+  {
     "id": "ARC-001",
     "name": "session-archaeologist",
     "stage": "spark",
@@ -372,7 +393,7 @@
     "flavour": "Flagship, shipped, hungry for maintenance",
     "context": "Live React 19 + Netlify app with CLAUDE.md, security policies and agent-labeled issues. The project everything else orbits.",
     "last_work": "Unified page layout on a shared inset primitive, fixed desktop nav overlap, and cleared 5 Dependabot alerts.",
-    "branch": "main",
+    "branch": "fix/nav-button-content-overlap",
     "last_commit_date": "2026-06-13",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
