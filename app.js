@@ -1,5 +1,10 @@
 /* ===== kaleidoscope · project observatory ===== */
 
+const GROUPS = [
+  { key:"meta",     label:"Meta",     blurb:"system · workflow · research" },
+  { key:"projects", label:"Projects", blurb:"the things you're making" },
+];
+
 const CATEGORIES = [
   { slug:"experimentation", label:"Fun Experimentation" },
   { slug:"tools",           label:"Tools & Useful Stuff" },
@@ -80,11 +85,11 @@ function projectEl(p, i){
         <div class="meta-row"><span class="pid">${esc(p.id||"")}</span>${chips}</div>
         ${p.flavour?`<p class="flav">“${esc(p.flavour)}”</p>`:""}
       </div>
+      <div class="chev"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></div>
       <div class="progress">
         <div class="segs">${s.html}</div>
         <div class="stage-row"><span class="stg">${esc(s.label)}</span><span class="pos">${s.pos}</span></div>
       </div>
-      <div class="chev"><svg viewBox="0 0 24 24"><polyline points="6 9 12 15 18 9"/></svg></div>
     </div>
     <div class="detail">
       <div class="detail-in"><div class="detail-grid">
@@ -127,19 +132,28 @@ async function main(){
 
   const board = document.getElementById("board");
   let i = 0;
-  for(const cat of CATEGORIES){
-    const items = data.filter(p => (p.category||"other") === cat.slug);
-    if(!items.length) continue;
-    const sec = document.createElement("section");
-    sec.className = "cat"; sec.dataset.cat = cat.slug;
-    sec.innerHTML = `<div class="cat-head">
-        <span class="glyph"></span>
-        <h2>${cat.label}</h2>
-        <span class="n">${items.length}</span>
-        <span class="rule"></span>
+  for(const g of GROUPS){
+    const gItems = data.filter(p => (p.group||"projects") === g.key);
+    if(!gItems.length) continue;
+    const col = document.createElement("div");
+    col.className = "column"; col.dataset.group = g.key;
+    col.innerHTML = `<div class="col-head">
+        <h2>${g.label}</h2><span class="col-n">${gItems.length}</span>
+        <p class="col-blurb">${g.blurb}</p>
       </div>`;
-    items.forEach(p => sec.appendChild(projectEl(p, i++)));
-    board.appendChild(sec);
+    for(const cat of CATEGORIES){
+      const items = gItems.filter(p => (p.category||"other") === cat.slug);
+      if(!items.length) continue;
+      const sec = document.createElement("section");
+      sec.className = "cat"; sec.dataset.cat = cat.slug;
+      sec.innerHTML = `<div class="cat-head">
+          <span class="glyph"></span><h3>${cat.label}</h3>
+          <span class="n">${items.length}</span><span class="rule"></span>
+        </div>`;
+      items.forEach(p => sec.appendChild(projectEl(p, i++)));
+      col.appendChild(sec);
+    }
+    board.appendChild(col);
   }
 
   const dates = data.map(p=>p.last_commit_date).filter(Boolean).sort();

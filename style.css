@@ -79,8 +79,14 @@ body{
 .updated{margin:0;font-family:"JetBrains Mono",monospace;font-size:12.5px;color:var(--mut)}
 
 /* ---------- category sections ---------- */
-.board{padding-top:20px;padding-bottom:48px}
-.cat{margin-top:50px;--accent:var(--c-other)}
+.board{padding-top:20px;padding-bottom:48px;display:grid;grid-template-columns:1fr 1fr;gap:40px;align-items:start}
+.column{min-width:0}
+.col-head{display:flex;align-items:baseline;gap:13px;flex-wrap:wrap;padding-bottom:14px;border-bottom:2px solid var(--line)}
+.col-head h2{font-family:"Fraunces",serif;font-weight:600;font-size:32px;letter-spacing:-.6px;margin:0;color:var(--ink)}
+.col-head .col-n{font-family:"JetBrains Mono",monospace;font-size:13px;color:var(--mut)}
+.col-head .col-blurb{flex-basis:100%;margin:3px 0 0;font-family:"JetBrains Mono",monospace;font-size:11px;text-transform:uppercase;letter-spacing:1.5px;color:var(--mut)}
+.cat{margin-top:34px;--accent:var(--c-other)}
+.column .cat:first-of-type{margin-top:24px}
 .cat[data-cat="experimentation"]{--accent:var(--c-experimentation)}
 .cat[data-cat="tools"]{--accent:var(--c-tools)}
 .cat[data-cat="creative"]{--accent:var(--c-creative)}
@@ -88,9 +94,9 @@ body{
 .cat-head{display:flex;align-items:center;gap:18px;margin-bottom:18px}
 .cat-head .glyph{width:13px;height:13px;border-radius:3px;background:var(--accent);
   box-shadow:0 0 18px -1px var(--accent);transform:rotate(45deg)}
-.cat-head h2{
+.cat-head h3{
   font-family:"JetBrains Mono",monospace;font-weight:500;
-  font-size:14.5px;text-transform:uppercase;letter-spacing:3px;margin:0;color:var(--ink);
+  font-size:12.5px;text-transform:uppercase;letter-spacing:2.5px;margin:0;color:var(--ink-2);
 }
 .cat-head .n{font-family:"JetBrains Mono",monospace;font-size:12.5px;color:var(--accent);
   border:1px solid color-mix(in srgb,var(--accent) 40%,transparent);border-radius:999px;padding:2px 9px}
@@ -110,10 +116,14 @@ body{
 .proj:hover{border-color:color-mix(in srgb,var(--accent) 45%,var(--line))}
 
 .proj-head{
-  display:grid;grid-template-columns:minmax(250px,1.05fr) minmax(0,1.5fr) 48px;
-  align-items:center;gap:32px;padding:22px 26px;cursor:pointer;
+  display:grid;grid-template-columns:1fr auto;
+  grid-template-areas:"card chev" "progress progress";
+  align-items:center;gap:16px 18px;padding:20px 22px;cursor:pointer;
   position:relative;
 }
+.proj-head .card{grid-area:card;min-width:0}
+.proj-head .chev{grid-area:chev}
+.proj-head .progress{grid-area:progress}
 .proj-head::before{content:"";position:absolute;left:0;top:14%;bottom:14%;width:4px;border-radius:4px;
   background:var(--accent);opacity:.65;transition:opacity .2s,box-shadow .2s}
 .proj:hover .proj-head::before,.proj.open .proj-head::before{opacity:1;box-shadow:0 0 16px -1px var(--accent)}
@@ -193,10 +203,10 @@ body{
   padding-top:26px;padding-bottom:56px;margin-top:16px;border-top:1px solid var(--line-soft);
   font-family:"JetBrains Mono",monospace;font-size:12.5px;color:var(--mut)}
 
+@media(max-width:960px){
+  .board{grid-template-columns:1fr;gap:18px}
+}
 @media(max-width:760px){
-  .proj-head{grid-template-columns:1fr 40px;gap:16px}
-  .progress{grid-column:1 / -1;order:3}
-  .chev{order:2}
   .detail-grid{grid-template-columns:1fr;gap:8px}
   .masthead{padding-top:46px}
 }
