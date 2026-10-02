@@ -415,7 +415,7 @@
     "flavour": "Process as code",
     "context": "SOPs and operational docs, version-controlled. The meta layer that keeps everything else reproducible.",
     "last_work": "Established the QA and co-operation documentation repo.",
-    "last_commit_date": "2026-10-02",
+    "last_commit_date": "2026-10-03",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
@@ -477,6 +477,26 @@
     "last_work": "",
     "last_commit_date": "",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
+    "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
+  },
+  {
+    "id": "TND-001",
+    "name": "tend",
+    "stage": "evolving",
+    "type": "project",
+    "domain": "philosophy",
+    "category": "other",
+    "group": "projects",
+    "energy_focus": "random",
+    "energy_motivation": "stack",
+    "energy_scope": "creative",
+    "energy_exposure": "private",
+    "energy_cost": "rewarding",
+    "flavour": "External collaboration",
+    "context": "External collaboration; details private.",
+    "last_work": "Joined as collaborator.",
+    "last_commit_date": "2026-04-14",
+    "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
