@@ -1,13 +1,13 @@
 ---
 description: Refresh the kaleidoscope dashboard — update git status, rebuild, commit + push both repos
-allowed-tools: Bash(bash:*), Bash(~/CODEVENTURES/kaleidoscope/kal-private/tools/refresh.sh:*)
+allowed-tools: Bash(bash:*), Bash(~/CODEVENTURES/kal-private/tools/refresh.sh:*)
 ---
 
 ## Refresh kaleidoscope
 
 Running the one-shot refresh (update-status → build-dashboard → commit kal-private → commit + push kal-public):
 
-!`bash ~/CODEVENTURES/kaleidoscope/kal-private/tools/refresh.sh`
+!`bash ~/CODEVENTURES/kal-private/tools/refresh.sh`
 
 Summarize the output above for me:
 - which projects' git fields changed (branch / last commit),
