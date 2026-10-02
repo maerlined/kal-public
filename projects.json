@@ -97,10 +97,10 @@
     "energy_exposure": "public",
     "energy_cost": "rewarding",
     "flavour": "A chess-viz collaboration",
-    "context": "Collaborative chess visualization and analysis (with lucasbroido). On GitLab, last touched 2025; a FEN parser was in progress. Moved to inactive 2026-04-24.",
+    "context": "Collaborative chess visualization and analysis (with lucasbroido). On GitHub (private; originally GitLab), last touched 2025; a FEN parser was in progress. Moved to inactive 2026-04-24.",
     "last_work": "",
-    "branch": "",
-    "last_commit_date": "",
+    "branch": "main",
+    "last_commit_date": "2026-10-02",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
@@ -414,7 +414,7 @@
     "flavour": "Flagship, shipped, hungry for maintenance",
     "context": "Live React 19 + Netlify app with CLAUDE.md, security policies and agent-labeled issues. The project everything else orbits.",
     "last_work": "Unified page layout on a shared inset primitive, fixed desktop nav overlap, and cleared 5 Dependabot alerts.",
-    "branch": "chore/264-gitleaks-hook",
+    "branch": "main",
     "last_commit_date": "2026-10-02",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
@@ -435,7 +435,7 @@
     "flavour": "Process as code",
     "context": "SOPs and operational docs, version-controlled. The meta layer that keeps everything else reproducible.",
     "last_work": "Established the QA and co-operation documentation repo.",
-    "branch": "feat/absorb-non-projects-sops-and-mspecs",
+    "branch": "main",
     "last_commit_date": "2026-10-02",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
@@ -580,10 +580,10 @@
     "energy_exposure": "private",
     "energy_cost": "rewarding",
     "flavour": "A WoW lore deep-dive",
-    "context": "World of Warcraft lore exploration and documentation. On GitLab, last touched early 2025; scope undefined. Moved to inactive 2026-04-24.",
+    "context": "World of Warcraft lore exploration and documentation. On GitHub (private; originally GitLab), last touched early 2025; scope undefined. Moved to inactive 2026-04-24.",
     "last_work": "",
-    "branch": "",
-    "last_commit_date": "",
+    "branch": "main",
+    "last_commit_date": "2026-10-02",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   }
