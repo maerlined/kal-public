@@ -65,7 +65,7 @@
   {
     "id": "AWA-001",
     "name": "ai-welfare-assessment",
-    "stage": "spark",
+    "stage": "build",
     "type": "project",
     "domain": "development",
     "category": "experimentation",
@@ -77,9 +77,9 @@
     "energy_cost": "balanced",
     "flavour": "Taking model welfare seriously",
     "context": "Research collaboration (fork of arsam-shaheen). On the maerlin/vis branch, visualization work in progress.",
-    "last_work": "Added a GitHub Pages deployment workflow and removed node_modules from tracking.",
+    "last_work": "Working out visualisations on maerlin/vis, on top of a fork of an already-live tool; added a comprehensive README.",
     "branch": "maerlin/vis",
-    "last_commit_date": "2026-03-09",
+    "last_commit_date": "2026-10-02",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
@@ -205,7 +205,7 @@
     "context": "The scaffold itself - this very tracking hub. Schema, GitHub project, energy scales, and the dashboard you're reading. Turning creative explosion into organized, patterned output.",
     "last_work": "Built the observatory dashboard - two-column Meta|Projects split, energy scales, and the live Pages site.",
     "branch": "main",
-    "last_commit_date": "2026-06-13",
+    "last_commit_date": "2026-10-02",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
@@ -414,8 +414,8 @@
     "flavour": "Process as code",
     "context": "SOPs and operational docs, version-controlled. The meta layer that keeps everything else reproducible.",
     "last_work": "Established the QA and co-operation documentation repo.",
-    "branch": "main",
-    "last_commit_date": "2026-05-29",
+    "branch": "feat/idea-intake-and-project-creation-sops",
+    "last_commit_date": "2026-10-02",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
