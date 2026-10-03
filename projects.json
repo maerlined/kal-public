@@ -598,5 +598,25 @@
     "last_commit_date": "2026-10-02",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
+  },
+  {
+    "id": "ZRO-001",
+    "name": "zero",
+    "stage": "spark",
+    "type": "project",
+    "domain": "development",
+    "category": "experimentation",
+    "group": "meta",
+    "energy_focus": "fragmented",
+    "energy_motivation": "whimsy",
+    "energy_scope": "creative",
+    "energy_exposure": "private",
+    "energy_cost": "rewarding",
+    "flavour": "Reading my own conversations back",
+    "context": "Personal knowledge project; details private.",
+    "last_work": "Idea captured.",
+    "last_commit_date": "",
+    "manifesto_url": "",
+    "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   }
 ]
