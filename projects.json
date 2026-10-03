@@ -220,6 +220,26 @@
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
+    "id": "LIA-001",
+    "name": "lia",
+    "stage": "manifesto",
+    "type": "project",
+    "domain": "development",
+    "category": "tools",
+    "group": "projects",
+    "energy_focus": "immersive",
+    "energy_motivation": "stack",
+    "energy_scope": "technical",
+    "energy_exposure": "private",
+    "energy_cost": "tedious",
+    "flavour": "Learn data science by doing one real project",
+    "context": "A self-paced, project-based data-science apprenticeship building toward one portfolio capstone.",
+    "last_work": "Course designed: a 21-chapter syllabus and the project-choice workshop.",
+    "last_commit_date": "2026-10-02",
+    "manifesto_url": "",
+    "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
+  },
+  {
     "id": "MIR-001",
     "name": "miranda-muse",
     "stage": "spark",
