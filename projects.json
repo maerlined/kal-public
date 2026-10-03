@@ -142,7 +142,7 @@
   {
     "id": "EBV-001",
     "name": "eb-vault",
-    "stage": "active",
+    "stage": "evolving",
     "type": "project",
     "domain": "development",
     "category": "tools",
