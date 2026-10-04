@@ -320,6 +320,26 @@
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
+    "id": "PLR-001",
+    "name": "plan-register",
+    "stage": "manifesto",
+    "type": "project",
+    "domain": "automation",
+    "category": "tools",
+    "group": "meta",
+    "energy_focus": "random",
+    "energy_motivation": "stack",
+    "energy_scope": "technical",
+    "energy_exposure": "private",
+    "energy_cost": "rewarding",
+    "flavour": "Where are my plans?",
+    "context": "A small scanner that keeps a register of local planning files across repos and devices.",
+    "last_work": "Idea captured.",
+    "last_commit_date": "",
+    "manifesto_url": "",
+    "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
+  },
+  {
     "id": "PLY-001",
     "name": "polly-polymath",
     "stage": "spark",
