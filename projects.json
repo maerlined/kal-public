@@ -254,7 +254,7 @@
     "energy_cost": "balanced",
     "flavour": "Personal site",
     "context": "Personal web presence; details private.",
-    "last_work": "Redesigned and deployed; content to come.",
+    "last_work": "About page and writing link filled in.",
     "last_commit_date": "2026-10-04",
     "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
@@ -475,7 +475,7 @@
     "flavour": "Process as code",
     "context": "SOPs and operational docs, version-controlled. The meta layer that keeps everything else reproducible.",
     "last_work": "Established the QA and co-operation documentation repo.",
-    "last_commit_date": "2026-10-03",
+    "last_commit_date": "2026-10-04",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
