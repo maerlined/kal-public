@@ -262,7 +262,7 @@
   {
     "id": "MIR-001",
     "name": "miranda-muse",
-    "stage": "specs",
+    "stage": "build",
     "type": "project",
     "domain": "development",
     "category": "creative",
