@@ -314,7 +314,7 @@
     "energy_cost": "rewarding",
     "flavour": "A token-burn critter pet",
     "context": "A Claude API token/cost tracker with a Tamagotchi dino that grows fat on your spend and explodes if you ignore warnings. The fun one.",
-    "last_work": "Repo started with its starter docs.",
+    "last_work": "First dino hatched: a CLI that reports the day.",
     "last_commit_date": "2026-10-05",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
