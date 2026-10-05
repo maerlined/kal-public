@@ -255,7 +255,7 @@
     "flavour": "Personal site",
     "context": "Personal web presence; details private.",
     "last_work": "Muted washes, smoother arrivals, a new more page.",
-    "last_commit_date": "2026-10-05",
+    "last_commit_date": "2026-10-06",
     "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
@@ -315,7 +315,7 @@
     "flavour": "A token-burn critter pet",
     "context": "A Claude API token/cost tracker with a Tamagotchi dino that grows fat on your spend and explodes if you ignore warnings. The fun one.",
     "last_work": "First dino hatched: a CLI that reports the day.",
-    "last_commit_date": "2026-10-05",
+    "last_commit_date": "2026-10-06",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
@@ -475,7 +475,7 @@
     "flavour": "Process as code",
     "context": "SOPs and operational docs, version-controlled. The meta layer that keeps everything else reproducible.",
     "last_work": "All process slips closed; a docs review is next.",
-    "last_commit_date": "2026-10-05",
+    "last_commit_date": "2026-10-06",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
@@ -514,8 +514,8 @@
     "energy_cost": "balanced",
     "flavour": "A graph of shared context",
     "context": "Graph DB for shared Claude context; session JSONL feeds nodes and edges. On a feature branch building the compare-query pipeline.",
-    "last_work": "Added the compare command and session_04 source data; ingested context extracts into the graph.",
-    "last_commit_date": "2026-05-02",
+    "last_work": "Trimmed the live graph to what it should show; query tools are next.",
+    "last_commit_date": "2026-10-06",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
@@ -655,7 +655,7 @@
     "flavour": "Reading my own conversations back",
     "context": "Personal knowledge project; details private.",
     "last_work": "Idea captured and project repo set up.",
-    "last_commit_date": "2026-10-03",
+    "last_commit_date": "2026-10-06",
     "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   }
