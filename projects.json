@@ -334,7 +334,7 @@
     "energy_cost": "rewarding",
     "flavour": "A token-burn critter pet",
     "context": "A Claude API token/cost tracker with a Tamagotchi dino that grows fat on your spend and explodes if you ignore warnings. The fun one.",
-    "last_work": "The dino now has a public web showcase page.",
+    "last_work": "The terminal tab-bar version got safer to run; the page now credits how it was made.",
     "last_commit_date": "2026-10-07",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
@@ -554,7 +554,7 @@
     "energy_cost": "rewarding",
     "flavour": "Flagship, shipped, hungry for maintenance",
     "context": "Live React 19 + Netlify app with CLAUDE.md, security policies and agent-labeled issues. The project everything else orbits.",
-    "last_work": "Housekeeping and doc fixes; dependency updates still need a look.",
+    "last_work": "More of the survey is now tested, and its questions must be answered before sending.",
     "last_commit_date": "2026-10-07",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
