@@ -80,6 +80,26 @@
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
+    "id": "AWA-003",
+    "name": "ai-welfare-lab",
+    "stage": "spark",
+    "type": "project",
+    "domain": "development",
+    "category": "experimentation",
+    "group": "projects",
+    "energy_focus": "fragmented",
+    "energy_motivation": "business",
+    "energy_scope": "technical",
+    "energy_exposure": "private",
+    "energy_cost": "balanced",
+    "flavour": "Research tooling",
+    "context": "Private research tooling; details private.",
+    "last_work": "Workshop set up.",
+    "last_commit_date": "2026-10-06",
+    "manifesto_url": "",
+    "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
+  },
+  {
     "id": "CHS-001",
     "name": "chessly",
     "stage": "inactive",
