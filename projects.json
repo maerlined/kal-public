@@ -314,7 +314,7 @@
     "energy_cost": "rewarding",
     "flavour": "A token-burn critter pet",
     "context": "A Claude API token/cost tracker with a Tamagotchi dino that grows fat on your spend and explodes if you ignore warnings. The fun one.",
-    "last_work": "The dino got its pixel look; next it learns to move.",
+    "last_work": "The dino moves now; next it learns about limits.",
     "last_commit_date": "2026-10-06",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
@@ -435,7 +435,7 @@
     "flavour": "Skill issue? The tutor explains",
     "context": "AI-powered software-onboarding tutor; most mature codebase after skyn0t-react. Client/server TS with a quality framework. Needs due-diligence.",
     "last_work": "Dependency bumps; earlier landed the adaptive-flow mock in Jupyter.",
-    "last_commit_date": "2026-03-26",
+    "last_commit_date": "2026-05-07",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
