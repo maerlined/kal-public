@@ -74,7 +74,7 @@
     "energy_cost": "balanced",
     "flavour": "Taking model welfare seriously",
     "context": "Research collaboration (fork of arsam-shaheen). On the maerlin/vis branch, visualization work in progress.",
-    "last_work": "Working out visualisations on maerlin/vis, on top of a fork of an already-live tool; added a comprehensive README.",
+    "last_work": "First visualisation is in: a heatmap of which frameworks come up for whom.",
     "last_commit_date": "2026-10-06",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
