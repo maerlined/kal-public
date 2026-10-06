@@ -574,7 +574,7 @@
     "energy_cost": "balanced",
     "flavour": "Process as code",
     "context": "SOPs and operational docs, version-controlled. The meta layer that keeps everything else reproducible.",
-    "last_work": "Quality records caught up and key SOPs refreshed; the docs review is next.",
+    "last_work": "Documentation review: one rule retired, project tiers added.",
     "last_commit_date": "2026-10-06",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
