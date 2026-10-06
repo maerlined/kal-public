@@ -82,7 +82,7 @@
   {
     "id": "AWA-003",
     "name": "ai-welfare-lab",
-    "stage": "spark",
+    "stage": "build",
     "type": "project",
     "domain": "development",
     "category": "experimentation",
