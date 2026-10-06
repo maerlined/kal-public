@@ -613,7 +613,7 @@
     "energy_exposure": "private",
     "energy_cost": "balanced",
     "flavour": "A graph of shared context",
-    "context": "Graph DB for shared Claude context; session JSONL feeds nodes and edges. On a feature branch building the compare-query pipeline.",
+    "context": "Knowledge graph of AI-phenomenology research sessions; a reproducible pipeline builds the published graph from session exports.",
     "last_work": "The graph now rebuilds the same way every time, and more of its links show.",
     "last_commit_date": "2026-10-07",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
