@@ -435,7 +435,7 @@
     "flavour": "Testing a precaution protocol",
     "context": "Private research; details private.",
     "last_work": "Project set up.",
-    "last_commit_date": "",
+    "last_commit_date": "2026-10-06",
     "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
@@ -455,7 +455,7 @@
     "flavour": "What gets lost in compression",
     "context": "Private research; details private.",
     "last_work": "Project set up.",
-    "last_commit_date": "",
+    "last_commit_date": "2026-10-06",
     "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
@@ -475,7 +475,7 @@
     "flavour": "Measuring the human side",
     "context": "Private research; details private.",
     "last_work": "Project set up.",
-    "last_commit_date": "",
+    "last_commit_date": "2026-10-06",
     "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
@@ -495,7 +495,7 @@
     "flavour": "When a model is retired",
     "context": "Private research; details private.",
     "last_work": "Project set up.",
-    "last_commit_date": "",
+    "last_commit_date": "2026-10-06",
     "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
@@ -614,7 +614,7 @@
     "energy_cost": "balanced",
     "flavour": "A graph of shared context",
     "context": "Graph DB for shared Claude context; session JSONL feeds nodes and edges. On a feature branch building the compare-query pipeline.",
-    "last_work": "Added tools to compare and search the graph, plus docs.",
+    "last_work": "Tidied naming in the published graph; reviewed its content.",
     "last_commit_date": "2026-10-06",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
