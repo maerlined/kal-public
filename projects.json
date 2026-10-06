@@ -514,7 +514,7 @@
     "energy_cost": "balanced",
     "flavour": "A graph of shared context",
     "context": "Graph DB for shared Claude context; session JSONL feeds nodes and edges. On a feature branch building the compare-query pipeline.",
-    "last_work": "Trimmed the live graph to what it should show; query tools are next.",
+    "last_work": "Added tools to compare and search the graph, plus docs.",
     "last_commit_date": "2026-10-06",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
