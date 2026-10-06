@@ -95,7 +95,7 @@
     "flavour": "Research tooling",
     "context": "Private research tooling; details private.",
     "last_work": "Added a tool that finds new papers for human review.",
-    "last_commit_date": "2026-10-06",
+    "last_commit_date": "2026-10-07",
     "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
@@ -614,8 +614,8 @@
     "energy_cost": "balanced",
     "flavour": "A graph of shared context",
     "context": "Graph DB for shared Claude context; session JSONL feeds nodes and edges. On a feature branch building the compare-query pipeline.",
-    "last_work": "Tidied naming in the published graph; reviewed its content.",
-    "last_commit_date": "2026-10-06",
+    "last_work": "The graph now rebuilds the same way every time, and more of its links show.",
+    "last_commit_date": "2026-10-07",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
