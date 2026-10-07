@@ -574,7 +574,7 @@
     "energy_cost": "balanced",
     "flavour": "Process as code",
     "context": "SOPs and operational docs, version-controlled. The meta layer that keeps everything else reproducible.",
-    "last_work": "Two slips filed and one closed; the terminal setup spec now covers the dino tab bar.",
+    "last_work": "More flexible terminal panel layout specified; every quality record is now closed.",
     "last_commit_date": "2026-10-08",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
