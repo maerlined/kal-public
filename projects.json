@@ -554,7 +554,7 @@
     "energy_cost": "rewarding",
     "flavour": "Flagship, shipped, hungry for maintenance",
     "context": "Live React 19 + Netlify app with CLAUDE.md, security policies and agent-labeled issues. The project everything else orbits.",
-    "last_work": "Dates now show the right day everywhere, and test coverage passed its goal.",
+    "last_work": "The landing page is now tested too; test coverage is above 90 %.",
     "last_commit_date": "2026-10-08",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
