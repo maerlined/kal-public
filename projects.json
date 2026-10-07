@@ -235,7 +235,7 @@
     "flavour": "A meta-system for creative sanity",
     "context": "The scaffold itself - this very tracking hub. Schema, GitHub project, energy scales, and the dashboard you're reading. Turning creative explosion into organized, patterned output.",
     "last_work": "Built the observatory dashboard - two-column Meta|Projects split, energy scales, and the live Pages site.",
-    "last_commit_date": "2026-10-07",
+    "last_commit_date": "2026-10-08",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
@@ -334,7 +334,7 @@
     "energy_cost": "rewarding",
     "flavour": "A token-burn critter pet",
     "context": "A Claude API token/cost tracker with a Tamagotchi dino that grows fat on your spend and explodes if you ignore warnings. The fun one.",
-    "last_work": "The terminal tab-bar version got safer to run; the page now credits how it was made.",
+    "last_work": "The dino now lives in the terminal tab bar and is ready for the assistant's status line.",
     "last_commit_date": "2026-10-08",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
@@ -575,7 +575,7 @@
     "flavour": "Process as code",
     "context": "SOPs and operational docs, version-controlled. The meta layer that keeps everything else reproducible.",
     "last_work": "Two slips filed and one closed; the terminal setup spec now covers the dino tab bar.",
-    "last_commit_date": "2026-10-07",
+    "last_commit_date": "2026-10-08",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
