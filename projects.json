@@ -600,6 +600,26 @@
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
+    "id": "SOP-002",
+    "name": "workstyle-kit",
+    "stage": "spark",
+    "type": "project",
+    "domain": "quality",
+    "category": "tools",
+    "group": "projects",
+    "energy_focus": "",
+    "energy_motivation": "",
+    "energy_scope": "",
+    "energy_exposure": "public",
+    "energy_cost": "",
+    "flavour": "Your workstyle, packaged and shareable",
+    "context": "A quality kit that fits one person's way of working: a generic engine plus workstyle profiles you can export and import. From a plugin that makes AI-assisted coding smoother to a lightweight personal quality system.",
+    "last_work": "",
+    "last_commit_date": "",
+    "manifesto_url": "",
+    "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
+  },
+  {
     "id": "STV-001",
     "name": "study-vault",
     "stage": "inactive",
