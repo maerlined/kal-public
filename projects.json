@@ -595,7 +595,7 @@
     "flavour": "Process as code",
     "context": "SOPs and operational docs, version-controlled. The meta layer that keeps everything else reproducible.",
     "last_work": "The coding assistant's status line can now show the token-burn dino; documented, not yet switched on.",
-    "last_commit_date": "2026-10-10",
+    "last_commit_date": "2026-10-11",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
