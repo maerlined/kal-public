@@ -175,7 +175,7 @@
     "flavour": "The knowledge layer \u2014 Obsidian vault, linking everything else",
     "context": "The EB vault (eb-vault repo, ~/EB) \u2014 system/quality/meta notes, project clusters, journal. Reads from kal-private, never writes into it. The vault's own CLAUDE.md, SOP Index, and Conventions govern it. Added to tracking 2026-10-02 (group-field redesign) \u2014 first entry for the vault itself, which previously had no kal-private status despite being substantial ongoing work.",
     "last_work": "Archive system (SOP - Archiving v1.0), unified-workspace-pipeline design, meta/ folder reorg logging, non-projects cleanup audit, tend correction \u2014 all 2026-10-02.",
-    "last_commit_date": "2026-10-10",
+    "last_commit_date": "2026-10-11",
     "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
@@ -215,7 +215,7 @@
     "flavour": "A meta-system for creative sanity",
     "context": "The scaffold itself - this very tracking hub. Schema, GitHub project, energy scales, and the dashboard you're reading. Turning creative explosion into organized, patterned output.",
     "last_work": "Built the observatory dashboard - two-column Meta|Projects split, energy scales, and the live Pages site.",
-    "last_commit_date": "2026-10-10",
+    "last_commit_date": "2026-10-11",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
@@ -601,7 +601,7 @@
   },
   {
     "id": "SOP-002",
-    "name": "workstyle-kit",
+    "name": "quality-sLop",
     "stage": "spark",
     "type": "project",
     "domain": "quality",
