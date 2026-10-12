@@ -200,6 +200,26 @@
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
+    "id": "GAM-001",
+    "name": "surprise",
+    "stage": "spark",
+    "type": "project",
+    "domain": "development",
+    "category": "creative",
+    "group": "projects",
+    "energy_focus": "immersive",
+    "energy_motivation": "whimsy",
+    "energy_scope": "creative",
+    "energy_exposure": "private",
+    "energy_cost": "rewarding",
+    "flavour": "A phone game about tending plots and solving puzzles.",
+    "context": "First phone game; just started.",
+    "last_work": "Project started; choosing the tools.",
+    "last_commit_date": "",
+    "manifesto_url": "",
+    "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
+  },
+  {
     "id": "KAL-001",
     "name": "kaleidoscope",
     "stage": "build",
