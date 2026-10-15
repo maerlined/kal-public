@@ -220,6 +220,26 @@
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
+    "id": "IRS-001",
+    "name": "indie-research",
+    "stage": "spark",
+    "type": "project",
+    "domain": "philosophy",
+    "category": "other",
+    "group": "projects",
+    "energy_focus": "fragmented",
+    "energy_motivation": "stack",
+    "energy_scope": "productive",
+    "energy_exposure": "public",
+    "energy_cost": "balanced",
+    "flavour": "Notes from doing research independently.",
+    "context": "Guidelines for starting independent AI research, written from practice; meant to become a workshop later.",
+    "last_work": "Set up.",
+    "last_commit_date": "2026-10-15",
+    "manifesto_url": "",
+    "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
+  },
+  {
     "id": "KAL-001",
     "name": "kaleidoscope",
     "stage": "build",
@@ -615,7 +635,7 @@
     "flavour": "Process as code",
     "context": "SOPs and operational docs, version-controlled. The meta layer that keeps everything else reproducible.",
     "last_work": "Clearer rules for who records process issues, and a layout tweak for the terminal.",
-    "last_commit_date": "2026-10-14",
+    "last_commit_date": "2026-10-15",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
@@ -655,7 +675,7 @@
     "flavour": "A philosophical exploration, toward essays.",
     "context": "Research, a framework and a method, to turn long-held thoughts into published writing; just started.",
     "last_work": "Two thesis drafts done with feedback; short writing drills started.",
-    "last_commit_date": "2026-10-14",
+    "last_commit_date": "2026-10-15",
     "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
