@@ -634,7 +634,7 @@
     "energy_cost": "balanced",
     "flavour": "Process as code",
     "context": "SOPs and operational docs, version-controlled. The meta layer that keeps everything else reproducible.",
-    "last_work": "Clearer rules for who records process issues, and a layout tweak for the terminal.",
+    "last_work": "Rules for keeping session IDs and quieter reporting, plus a new session launcher.",
     "last_commit_date": "2026-10-15",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
