@@ -634,7 +634,7 @@
     "energy_cost": "balanced",
     "flavour": "Process as code",
     "context": "SOPs and operational docs, version-controlled. The meta layer that keeps everything else reproducible.",
-    "last_work": "Rules for keeping session IDs and quieter reporting, plus a new session launcher.",
+    "last_work": "Rules for parking sessions before breaks, plus a layout config and a park command.",
     "last_commit_date": "2026-10-16",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
