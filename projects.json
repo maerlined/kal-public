@@ -634,7 +634,7 @@
     "energy_cost": "balanced",
     "flavour": "Process as code",
     "context": "SOPs and operational docs, version-controlled. The meta layer that keeps everything else reproducible.",
-    "last_work": "A fix for the park command, a deviation closed, and cache tests that confirm parking before breaks.",
+    "last_work": "Rules tightened after a quality review; merge readiness now includes live CI checks.",
     "last_commit_date": "2026-10-17",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
