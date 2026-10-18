@@ -720,6 +720,26 @@
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
+    "id": "SRL-002",
+    "name": "strange-atlas",
+    "stage": "spark",
+    "type": "project",
+    "domain": "philosophy",
+    "category": "creative",
+    "group": "projects",
+    "energy_focus": "",
+    "energy_motivation": "",
+    "energy_scope": "",
+    "energy_exposure": "",
+    "energy_cost": "",
+    "flavour": "A research corpus on how humans describe existence.",
+    "context": "Religion, faith and myth across history, with their echoes in fiction and secular creeds. Satellite of strange-religion; just set up.",
+    "last_work": "Set up: brief, method and registers drafted; no research written yet.",
+    "last_commit_date": "",
+    "manifesto_url": "",
+    "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
+  },
+  {
     "id": "STV-001",
     "name": "study-vault",
     "stage": "inactive",
