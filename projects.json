@@ -195,7 +195,7 @@
     "flavour": "The knowledge layer \u2014 Obsidian vault, linking everything else",
     "context": "The EB vault (eb-vault repo, ~/EB) \u2014 system/quality/meta notes, project clusters, journal. Reads from kal-private, never writes into it. The vault's own CLAUDE.md, SOP Index, and Conventions govern it. Added to tracking 2026-10-02 (group-field redesign) \u2014 first entry for the vault itself, which previously had no kal-private status despite being substantial ongoing work.",
     "last_work": "Archive system (SOP - Archiving v1.0), unified-workspace-pipeline design, meta/ folder reorg logging, non-projects cleanup audit, tend correction \u2014 all 2026-10-02.",
-    "last_commit_date": "2026-10-17",
+    "last_commit_date": "2026-10-18",
     "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
@@ -275,7 +275,7 @@
     "flavour": "A meta-system for creative sanity",
     "context": "The scaffold itself - this very tracking hub. Schema, GitHub project, energy scales, and the dashboard you're reading. Turning creative explosion into organized, patterned output.",
     "last_work": "Built the observatory dashboard - two-column Meta|Projects split, energy scales, and the live Pages site.",
-    "last_commit_date": "2026-10-16",
+    "last_commit_date": "2026-10-18",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
@@ -535,7 +535,7 @@
     "flavour": "What gets lost in compression",
     "context": "Private research; details private.",
     "last_work": "A fifth post-compaction case written up; scoring for quoted wording decided.",
-    "last_commit_date": "2026-10-17",
+    "last_commit_date": "2026-10-18",
     "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
@@ -655,7 +655,7 @@
     "flavour": "Process as code",
     "context": "SOPs and operational docs, version-controlled. The meta layer that keeps everything else reproducible.",
     "last_work": "Rules tightened after a quality review; merge readiness now includes live CI checks.",
-    "last_commit_date": "2026-10-17",
+    "last_commit_date": "2026-10-18",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
@@ -694,8 +694,8 @@
     "energy_cost": "balanced",
     "flavour": "A philosophical exploration, toward essays.",
     "context": "Research, a framework and a method, to turn long-held thoughts into published writing; just started.",
-    "last_work": "Worked through a thesis exercise and started a glossary and a framework map.",
-    "last_commit_date": "2026-10-17",
+    "last_work": "Started a writing exercise that rewrites research statements for one reader at a time.",
+    "last_commit_date": "2026-10-18",
     "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
@@ -815,7 +815,7 @@
     "flavour": "Who I am in the research space, in one place.",
     "context": "My research identity, kept current: what I work on, make, publish and present, and who I work with. Funding and collaboration draw on it.",
     "last_work": "Drafted bios and CV text; corrections are under review.",
-    "last_commit_date": "2026-10-17",
+    "last_commit_date": "2026-10-18",
     "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
