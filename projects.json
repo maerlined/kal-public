@@ -680,6 +680,26 @@
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
+    "id": "SOP-003",
+    "name": "organisLop",
+    "stage": "spark",
+    "type": "tool",
+    "domain": "development",
+    "category": "tools",
+    "group": "projects",
+    "energy_focus": "",
+    "energy_motivation": "",
+    "energy_scope": "",
+    "energy_exposure": "public",
+    "energy_cost": "",
+    "flavour": "How you organise your projects, packaged for others.",
+    "context": "A personal project tracker for people with many projects at once: one plain status file per project in git, energy scales to choose what fits today, an idea-to-project pipeline, and a public dashboard built from whitelisted fields only. Satellite of quality-sLop.",
+    "last_work": "Starter docs and a secret-scanning hook in a fresh repo; due diligence done.",
+    "last_commit_date": "2026-10-18",
+    "manifesto_url": "",
+    "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
+  },
+  {
     "id": "SRL-001",
     "name": "strange-religion",
     "stage": "spark",
