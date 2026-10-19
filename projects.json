@@ -55,7 +55,7 @@
     "flavour": "Puzzles as practice for writing good code.",
     "context": "Advent of Code 2025 in Python (Rust and TypeScript optional), solved by Maerlin with a Claude collaborator that teaches rather than writes; compared with a friend's solutions afterwards.",
     "last_work": "Fresh repo set up with the 2023/2024 legacy code and the collaborator brief.",
-    "last_commit_date": "2026-10-18",
+    "last_commit_date": "2026-10-19",
     "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
@@ -655,7 +655,7 @@
     "flavour": "Process as code",
     "context": "SOPs and operational docs, version-controlled. The meta layer that keeps everything else reproducible.",
     "last_work": "Rules tightened after a quality review; merge readiness now includes live CI checks.",
-    "last_commit_date": "2026-10-19",
+    "last_commit_date": "2026-10-20",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
@@ -734,8 +734,8 @@
     "energy_cost": "",
     "flavour": "A research corpus on how humans describe existence.",
     "context": "Religion, faith and myth across history, with their echoes in fiction and secular creeds. Satellite of strange-religion; just set up.",
-    "last_work": "Project pages set up; first research milestone started.",
-    "last_commit_date": "2026-10-19",
+    "last_work": "First public-domain source texts added; two research decisions settled.",
+    "last_commit_date": "2026-10-20",
     "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
