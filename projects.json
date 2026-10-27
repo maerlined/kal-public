@@ -54,7 +54,7 @@
     "energy_cost": "",
     "flavour": "Puzzles as practice for writing good code.",
     "context": "Advent of Code 2025 in Python (Rust and TypeScript optional), solved by Maerlin with a Claude collaborator that teaches rather than writes; compared with a friend's solutions afterwards.",
-    "last_work": "Two puzzle days solved and a third under way, alongside a small shared helper library and a course built around the practice.",
+    "last_work": "Three puzzle days solved and a fourth under way; the helper library gained a small grid viewer for looking at puzzle maps.",
     "last_commit_date": "2026-10-27",
     "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
@@ -275,7 +275,7 @@
     "flavour": "A meta-system for creative sanity",
     "context": "The scaffold itself - this very tracking hub. Schema, GitHub project, energy scales, and the dashboard you're reading. Turning creative explosion into organized, patterned output.",
     "last_work": "Built the observatory dashboard - two-column Meta|Projects split, energy scales, and the live Pages site.",
-    "last_commit_date": "2026-10-20",
+    "last_commit_date": "2026-10-27",
     "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
