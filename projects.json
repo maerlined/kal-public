@@ -16,8 +16,8 @@
     "context": "Fork of rohitg00/ai-engineering-from-scratch. Working through AI-engineering fundamentals hands-on.",
     "last_work": "Pulled upstream updates - phase-quiz backfills and quiz-rendering fixes.",
     "last_commit_date": "2026-10-15",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "AFB-001",
@@ -36,8 +36,8 @@
     "context": "Fork of DwayneWilkes/affect-battery \u2014 the eval harness for the Sentient Futures Incubator 'Affect Battery' study (lead Dwayne Wilkes, mentor Julia Bossmann). Tests whether AI emotional states follow biological patterns across 7 experiments (transfer, persistence, arousal, cognitive scope, hedging, base-vs-instruct asymmetry). Mature Python harness, ~800 tests, prereg + live dashboards. Fork is currently even with upstream \u2014 following/contributing.",
     "last_work": "Tracking upstream; latest is the h3b_calibrated_v3 effort-headroom bank + builder band override. No local commits yet \u2014 fork sits even with upstream.",
     "last_commit_date": "2026-05-10",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "AOC-001",
@@ -56,8 +56,8 @@
     "context": "Advent of Code 2025 in Python (Rust and TypeScript optional), solved by Maerlin with a Claude collaborator that teaches rather than writes; compared with a friend's solutions afterwards.",
     "last_work": "Three puzzle days solved and a fourth under way; the helper library gained a small grid viewer for looking at puzzle maps.",
     "last_commit_date": "2026-10-31",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "ARC-001",
@@ -76,8 +76,8 @@
     "context": "Visualizes Claude-assisted work as a timeline (Jupyter + p5.js). Feeds on session extracts and skill-issue quality data.",
     "last_work": "Initial commit - the Claude-collaboration timeline scaffold.",
     "last_commit_date": "2026-04-21",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "AWA-001",
@@ -96,8 +96,8 @@
     "context": "Research collaboration (fork of arsam-shaheen). On the maerlin/vis branch, visualization work in progress.",
     "last_work": "The fork's README now names the rule behind keeping Issues off.",
     "last_commit_date": "2026-10-07",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "https://maerlined.github.io/ai-welfare-assessment/",
+    "public_label": "guide"
   },
   {
     "id": "AWA-003",
@@ -116,8 +116,8 @@
     "context": "Private research tooling; details private.",
     "last_work": "Built a table of 229 works for a map of AI consciousness research.",
     "last_commit_date": "2026-10-16",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "CHS-001",
@@ -136,8 +136,8 @@
     "context": "Collaborative chess visualization and analysis (with lucasbroido). On GitHub (private; originally GitLab), last touched 2025; a FEN parser was in progress. Moved to inactive 2026-04-24.",
     "last_work": "",
     "last_commit_date": "2026-10-02",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "CRO-001",
@@ -156,8 +156,8 @@
     "context": "Crochet pattern generator. Still spark-stage: needs a manifesto and a survey of what existing generators get wrong.",
     "last_work": "Initial commit - repo scaffold only.",
     "last_commit_date": "2026-02-17",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "EBV-001",
@@ -176,8 +176,8 @@
     "context": "The EB vault (eb-vault repo, ~/EB) \u2014 system/quality/meta notes, project clusters, journal. Reads from kal-private, never writes into it. The vault's own CLAUDE.md, SOP Index, and Conventions govern it. Added to tracking 2026-10-02 (group-field redesign) \u2014 first entry for the vault itself, which previously had no kal-private status despite being substantial ongoing work.",
     "last_work": "Archive system (SOP - Archiving v1.0), unified-workspace-pipeline design, meta/ folder reorg logging, non-projects cleanup audit, tend correction \u2014 all 2026-10-02.",
     "last_commit_date": "2026-11-02",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "GAM-001",
@@ -196,8 +196,8 @@
     "context": "First phone game; just started.",
     "last_work": "Building interiors with restyleable furniture, plus a short in-game tutorial.",
     "last_commit_date": "2026-10-13",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "IRS-001",
@@ -216,8 +216,8 @@
     "context": "Guidelines for starting independent AI research, written from practice; meant to become a workshop later.",
     "last_work": "Set up.",
     "last_commit_date": "2026-10-15",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "KAL-001",
@@ -236,8 +236,8 @@
     "context": "The scaffold itself - this very tracking hub. Schema, GitHub project, energy scales, and the dashboard you're reading. Turning creative explosion into organized, patterned output.",
     "last_work": "Built the observatory dashboard - two-column Meta|Projects split, energy scales, and the live Pages site.",
     "last_commit_date": "2026-11-02",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "LIA-001",
@@ -256,8 +256,8 @@
     "context": "A self-paced, project-based data-science apprenticeship building toward one portfolio capstone.",
     "last_work": "Course designed: a 21-chapter syllabus and the project-choice workshop.",
     "last_commit_date": "2026-10-02",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "MED-001",
@@ -276,8 +276,8 @@
     "context": "Personal web presence; details private.",
     "last_work": "A research page with three research statements is now live on the site.",
     "last_commit_date": "2026-10-17",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "https://maerlined.fyi/",
+    "public_label": "site"
   },
   {
     "id": "MIR-001",
@@ -296,8 +296,8 @@
     "context": "Contribution project to a partner's smart mirror: new widgets and a tidier structure.",
     "last_work": "Three rounds of mirror tweaks merged upstream and running on the mirror.",
     "last_commit_date": "2026-10-13",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "MLK-001",
@@ -316,8 +316,8 @@
     "context": "AI audio-visualization pipeline: MilkDropLM generates presets, Butterchurn renders them to audio, FFmpeg stitches the video. Colab-first.",
     "last_work": "Built the comprehensive Colab visualization-workflow notebook on top of the initial SOP/README/config scaffold.",
     "last_commit_date": "2026-04-19",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "NEC-001",
@@ -336,8 +336,8 @@
     "context": "A Claude API token/cost tracker with a Tamagotchi dino that grows fat on your spend and explodes if you ignore warnings. The fun one.",
     "last_work": "The dino now lives in the terminal tab bar and is ready for the assistant's status line.",
     "last_commit_date": "2026-10-08",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "https://maerlined.github.io/no-ethical-consumption-showcase/",
+    "public_label": "showcase"
   },
   {
     "id": "PLR-001",
@@ -356,8 +356,8 @@
     "context": "A small scanner that keeps a register of local planning files across repos and devices.",
     "last_work": "Idea captured.",
     "last_commit_date": "",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "PLY-001",
@@ -376,8 +376,8 @@
     "context": "Polymer-clay art headed for Etsy. Creative + business: photography pipeline, listings and pattern instructions to come.",
     "last_work": "",
     "last_commit_date": "",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "POL-001",
@@ -396,8 +396,8 @@
     "context": "Polly, a multi-agent Claude coordination framework: the first version (architecture, agents, security principles). Origin of the proto-polly agent. Paused.",
     "last_work": "",
     "last_commit_date": "",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "POL-002",
@@ -416,8 +416,8 @@
     "context": "A clean restart of the Polly multi-agent coordination framework, with a documented agent-dispatch workflow. Paused.",
     "last_work": "",
     "last_commit_date": "",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "PSV-001",
@@ -436,8 +436,8 @@
     "context": "Fork of safety-research/persona_vectors. Experimenting with persona directions in model internals.",
     "last_work": "Added an Apache-2.0 license; experiments otherwise sit on the upstream fork base.",
     "last_commit_date": "2026-04-22",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "RLS-001",
@@ -456,8 +456,8 @@
     "context": "A variant of skill-issue aimed at real-world skills: decompose any life skill into a learnable path. Currently a design doc; needs scoping into a product.",
     "last_work": "",
     "last_commit_date": "",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "RWR-001",
@@ -476,8 +476,8 @@
     "context": "Private research; details private.",
     "last_work": "Scaffold merged; design docs in place.",
     "last_commit_date": "2026-10-31",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "RWR-002",
@@ -496,8 +496,8 @@
     "context": "Private research; details private.",
     "last_work": "Pilot size decided; the quote-scoring scheme is in review.",
     "last_commit_date": "2026-10-31",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "RWR-003",
@@ -516,8 +516,8 @@
     "context": "Private research; details private.",
     "last_work": "Scaffold merged; design docs in place.",
     "last_commit_date": "2026-10-31",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "RWR-004",
@@ -536,8 +536,8 @@
     "context": "Private research; details private.",
     "last_work": "Scaffold merged; design docs in place.",
     "last_commit_date": "2026-10-31",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "SIN-001",
@@ -556,8 +556,8 @@
     "context": "A 3D explorable space mapping interpersonal dynamics from WhatsApp/journal data over time. React + Three.js + Claude. Open issues: an anonymization engine and a chat parser. Feeds village-framework.",
     "last_work": "",
     "last_commit_date": "",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "SKL-001",
@@ -576,8 +576,8 @@
     "context": "AI-powered software-onboarding tutor; most mature codebase after skyn0t-react. Client/server TS with a quality framework. Needs due-diligence.",
     "last_work": "Dependency bumps; earlier landed the adaptive-flow mock in Jupyter.",
     "last_commit_date": "2026-05-07",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "SKR-001",
@@ -596,8 +596,8 @@
     "context": "Live React 19 + Netlify app with CLAUDE.md, security policies and agent-labeled issues. The project everything else orbits.",
     "last_work": "The landing page is now tested too; test coverage is above 90 %.",
     "last_commit_date": "2026-10-08",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "https://skyn0t.xyz/",
+    "public_label": "site"
   },
   {
     "id": "SOP-001",
@@ -616,8 +616,8 @@
     "context": "SOPs and operational docs, version-controlled. The meta layer that keeps everything else reproducible.",
     "last_work": "Session tooling grew: a re-anchor step after compaction, status posting, an idle-compaction gate and a checks reader; install still pending.",
     "last_commit_date": "2026-10-31",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "https://maerlined.github.io/sop-slop-showcase/",
+    "public_label": "showcase"
   },
   {
     "id": "SOP-002",
@@ -636,8 +636,8 @@
     "context": "A quality kit that fits one person's way of working: a generic engine plus workstyle profiles you can export and import. From a plugin that makes AI-assisted coding smoother to a lightweight personal quality system.",
     "last_work": "",
     "last_commit_date": "",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "SOP-003",
@@ -656,8 +656,8 @@
     "context": "A personal project tracker for people with many projects at once: one plain status file per project in git, energy scales to choose what fits today, an idea-to-project pipeline, and a public dashboard built from whitelisted fields only. Satellite of quality-sLop.",
     "last_work": "Starter docs and a secret-scanning hook in a fresh repo; due diligence done.",
     "last_commit_date": "2026-10-18",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "SRL-001",
@@ -676,8 +676,8 @@
     "context": "Research, a framework and a method, to turn long-held thoughts into published writing; just started.",
     "last_work": "Set up a review exercise and a project cover page; now coordinates the research satellite.",
     "last_commit_date": "2026-10-19",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "SRL-002",
@@ -696,8 +696,8 @@
     "context": "Religion, faith and myth across history, with their echoes in fiction and secular creeds. Satellite of strange-religion; just set up.",
     "last_work": "Third batch of public-domain source texts added; the next texts wait on another download route.",
     "last_commit_date": "2026-11-02",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "SYM-001",
@@ -716,8 +716,8 @@
     "context": "Knowledge graph of AI-phenomenology research sessions; a reproducible pipeline builds the published graph from session exports.",
     "last_work": "Reviewed edits now layer on top of the original graph, adding 36 new links.",
     "last_commit_date": "2026-10-08",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "TMX-001",
@@ -736,8 +736,8 @@
     "context": "Tmux session launcher, profiles, and handover templates for Claude Code agent-team workflows. Moved to inactive 2026-04-24.",
     "last_work": "",
     "last_commit_date": "",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "TND-001",
@@ -756,8 +756,8 @@
     "context": "External collaboration; details private.",
     "last_work": "Reading and comparing notes before contributing.",
     "last_commit_date": "2026-04-14",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "TRJ-001",
@@ -776,8 +776,8 @@
     "context": "An agentic project coach that helps sustain creative work: momentum tracking, portfolio building, decision support toward financial independence. Repo-less; needs a manifesto and an MVP.",
     "last_work": "",
     "last_commit_date": "",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "TRK-001",
@@ -796,8 +796,8 @@
     "context": "My research identity, kept current: what I work on, make, publish and present, and who I work with. Funding and collaboration draw on it.",
     "last_work": "Bios and CV text settled; record corrected; an opportunity pipeline started.",
     "last_commit_date": "2026-10-18",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "VIL-001",
@@ -816,8 +816,8 @@
     "context": "Templates and tools for friend groups to build a 'Village Codex' - relationship contracts for neurodiverse communication and shared care. Connected to sinfonia-delusione; has a voice recording to transcribe.",
     "last_work": "",
     "last_commit_date": "",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "VSN-001",
@@ -836,8 +836,8 @@
     "context": "An always-on intake agent that parses voice/text notes and auto-routes structured output across the project landscape. Whisper + Claude. Repo-less; first use case is the village-framework recording.",
     "last_work": "",
     "last_commit_date": "",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "WOW-001",
@@ -856,8 +856,8 @@
     "context": "World of Warcraft lore exploration and documentation. On GitHub (private; originally GitLab), last touched early 2025; scope undefined. Moved to inactive 2026-04-24.",
     "last_work": "",
     "last_commit_date": "2026-10-02",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   },
   {
     "id": "ZRO-001",
@@ -876,7 +876,7 @@
     "context": "Personal knowledge project; details private.",
     "last_work": "Added counts-only stats and a private search.",
     "last_commit_date": "2026-10-06",
-    "manifesto_url": "",
-    "kaleidoscope_url": ""
+    "public_url": "",
+    "public_label": ""
   }
 ]

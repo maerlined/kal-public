@@ -74,8 +74,8 @@ function projectEl(p, i){
     ? `<p class="lw-line">${esc(p.last_work)}</p>` : `<p class="lw-line" style="color:var(--mut)">No manual note yet.</p>`;
 
   const links = [
-    p.manifesto_url   ? `<a href="${esc(p.manifesto_url)}" target="_blank" rel="noopener">manifesto ↗</a>`:"",
-    p.kaleidoscope_url? `<a href="${esc(p.kaleidoscope_url)}" target="_blank" rel="noopener">project board ↗</a>`:"",
+    // one public link per card (2026-11-04): a showcase, site or guide; label defaults to "public page"
+    /^https:\/\//.test(p.public_url||"") ? `<a href="${esc(p.public_url)}" target="_blank" rel="noopener">${esc(p.public_label||"public page")} ↗</a>`:"",
   ].join("");
 
   el.innerHTML = `
