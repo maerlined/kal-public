@@ -16,7 +16,7 @@
     "context": "Fork of rohitg00/ai-engineering-from-scratch. Working through AI-engineering fundamentals hands-on.",
     "last_work": "Pulled upstream updates - phase-quiz backfills and quiz-rendering fixes.",
     "last_commit_date": "2026-10-15",
-    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
+    "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
@@ -36,7 +36,7 @@
     "context": "Fork of DwayneWilkes/affect-battery \u2014 the eval harness for the Sentient Futures Incubator 'Affect Battery' study (lead Dwayne Wilkes, mentor Julia Bossmann). Tests whether AI emotional states follow biological patterns across 7 experiments (transfer, persistence, arousal, cognitive scope, hedging, base-vs-instruct asymmetry). Mature Python harness, ~800 tests, prereg + live dashboards. Fork is currently even with upstream \u2014 following/contributing.",
     "last_work": "Tracking upstream; latest is the h3b_calibrated_v3 effort-headroom bank + builder band override. No local commits yet \u2014 fork sits even with upstream.",
     "last_commit_date": "2026-05-10",
-    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
+    "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
@@ -76,7 +76,7 @@
     "context": "Visualizes Claude-assisted work as a timeline (Jupyter + p5.js). Feeds on session extracts and skill-issue quality data.",
     "last_work": "Initial commit - the Claude-collaboration timeline scaffold.",
     "last_commit_date": "2026-04-21",
-    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
+    "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
@@ -96,7 +96,7 @@
     "context": "Research collaboration (fork of arsam-shaheen). On the maerlin/vis branch, visualization work in progress.",
     "last_work": "The fork's README now names the rule behind keeping Issues off.",
     "last_commit_date": "2026-10-07",
-    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
+    "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
@@ -136,7 +136,7 @@
     "context": "Collaborative chess visualization and analysis (with lucasbroido). On GitHub (private; originally GitLab), last touched 2025; a FEN parser was in progress. Moved to inactive 2026-04-24.",
     "last_work": "",
     "last_commit_date": "2026-10-02",
-    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
+    "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
@@ -156,27 +156,7 @@
     "context": "Crochet pattern generator. Still spark-stage: needs a manifesto and a survey of what existing generators get wrong.",
     "last_work": "Initial commit - repo scaffold only.",
     "last_commit_date": "2026-02-17",
-    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
-    "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
-  },
-  {
-    "id": "CSP-001",
-    "name": "context-shift-probe",
-    "stage": "inactive",
-    "type": "project",
-    "domain": "development",
-    "category": "experimentation",
-    "group": "projects",
-    "energy_focus": "immersive",
-    "energy_motivation": "stack",
-    "energy_scope": "technical",
-    "energy_exposure": "public",
-    "energy_cost": "balanced",
-    "flavour": "Cross-model awareness stress-test",
-    "context": "Merged into a sibling research project (2026-10-06).",
-    "last_work": "",
-    "last_commit_date": "",
-    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
+    "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
@@ -197,26 +177,6 @@
     "last_work": "Archive system (SOP - Archiving v1.0), unified-workspace-pipeline design, meta/ folder reorg logging, non-projects cleanup audit, tend correction \u2014 all 2026-10-02.",
     "last_commit_date": "2026-11-02",
     "manifesto_url": "",
-    "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
-  },
-  {
-    "id": "EXB-001",
-    "name": "external-brain",
-    "stage": "live",
-    "type": "project",
-    "domain": "development",
-    "category": "tools",
-    "group": "meta",
-    "energy_focus": "random",
-    "energy_motivation": "stack",
-    "energy_scope": "productive",
-    "energy_exposure": "private",
-    "energy_cost": "rewarding",
-    "flavour": "Every idea's home base",
-    "context": "The manifesto index: one folder per project idea, source of the kaleidoscope IDs. The depth layer behind this dashboard.",
-    "last_work": "Added the CSP-001 manifesto plus project cards and manifesto templates for all ideas.",
-    "last_commit_date": "2026-05-02",
-    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
@@ -276,7 +236,7 @@
     "context": "The scaffold itself - this very tracking hub. Schema, GitHub project, energy scales, and the dashboard you're reading. Turning creative explosion into organized, patterned output.",
     "last_work": "Built the observatory dashboard - two-column Meta|Projects split, energy scales, and the live Pages site.",
     "last_commit_date": "2026-11-02",
-    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
+    "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
@@ -336,7 +296,7 @@
     "context": "Contribution project to a partner's smart mirror: new widgets and a tidier structure.",
     "last_work": "Three rounds of mirror tweaks merged upstream and running on the mirror.",
     "last_commit_date": "2026-10-13",
-    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
+    "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
@@ -356,7 +316,7 @@
     "context": "AI audio-visualization pipeline: MilkDropLM generates presets, Butterchurn renders them to audio, FFmpeg stitches the video. Colab-first.",
     "last_work": "Built the comprehensive Colab visualization-workflow notebook on top of the initial SOP/README/config scaffold.",
     "last_commit_date": "2026-04-19",
-    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
+    "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
@@ -376,7 +336,7 @@
     "context": "A Claude API token/cost tracker with a Tamagotchi dino that grows fat on your spend and explodes if you ignore warnings. The fun one.",
     "last_work": "The dino now lives in the terminal tab bar and is ready for the assistant's status line.",
     "last_commit_date": "2026-10-08",
-    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
+    "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
@@ -476,7 +436,7 @@
     "context": "Fork of safety-research/persona_vectors. Experimenting with persona directions in model internals.",
     "last_work": "Added an Apache-2.0 license; experiments otherwise sit on the upstream fork base.",
     "last_commit_date": "2026-04-22",
-    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
+    "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
@@ -493,10 +453,10 @@
     "energy_exposure": "public",
     "energy_cost": "balanced",
     "flavour": "Onboarding for actual life",
-    "context": "A variant of skill-issue aimed at real-world skills: decompose any life skill into a learnable path. Currently a design doc in external-brain; needs scoping into a product.",
+    "context": "A variant of skill-issue aimed at real-world skills: decompose any life skill into a learnable path. Currently a design doc; needs scoping into a product.",
     "last_work": "",
     "last_commit_date": "",
-    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
+    "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
@@ -596,7 +556,7 @@
     "context": "A 3D explorable space mapping interpersonal dynamics from WhatsApp/journal data over time. React + Three.js + Claude. Open issues: an anonymization engine and a chat parser. Feeds village-framework.",
     "last_work": "",
     "last_commit_date": "",
-    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
+    "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
@@ -616,7 +576,7 @@
     "context": "AI-powered software-onboarding tutor; most mature codebase after skyn0t-react. Client/server TS with a quality framework. Needs due-diligence.",
     "last_work": "Dependency bumps; earlier landed the adaptive-flow mock in Jupyter.",
     "last_commit_date": "2026-05-07",
-    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
+    "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
@@ -636,7 +596,7 @@
     "context": "Live React 19 + Netlify app with CLAUDE.md, security policies and agent-labeled issues. The project everything else orbits.",
     "last_work": "The landing page is now tested too; test coverage is above 90 %.",
     "last_commit_date": "2026-10-08",
-    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
+    "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
@@ -656,7 +616,7 @@
     "context": "SOPs and operational docs, version-controlled. The meta layer that keeps everything else reproducible.",
     "last_work": "Session tooling grew: a re-anchor step after compaction, status posting, an idle-compaction gate and a checks reader; install still pending.",
     "last_commit_date": "2026-10-31",
-    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
+    "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
@@ -740,26 +700,6 @@
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
-    "id": "STV-001",
-    "name": "study-vault",
-    "stage": "inactive",
-    "type": "project",
-    "domain": "development",
-    "category": "tools",
-    "group": "projects",
-    "energy_focus": "",
-    "energy_motivation": "",
-    "energy_scope": "productive",
-    "energy_exposure": "private",
-    "energy_cost": "tedious",
-    "flavour": "Coursework, organized",
-    "context": "Colab-first Jupyter study organizer, one notebook per week per course. Local git only, synced down from Colab.",
-    "last_work": "Initialized the study-vault repo structure.",
-    "last_commit_date": "2026-04-10",
-    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
-    "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
-  },
-  {
     "id": "SYM-001",
     "name": "skyn0t-symbiosis",
     "stage": "live",
@@ -776,7 +716,7 @@
     "context": "Knowledge graph of AI-phenomenology research sessions; a reproducible pipeline builds the published graph from session exports.",
     "last_work": "Reviewed edits now layer on top of the original graph, adding 36 new links.",
     "last_commit_date": "2026-10-08",
-    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
+    "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
@@ -796,7 +736,7 @@
     "context": "Tmux session launcher, profiles, and handover templates for Claude Code agent-team workflows. Moved to inactive 2026-04-24.",
     "last_work": "",
     "last_commit_date": "",
-    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
+    "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
@@ -836,7 +776,7 @@
     "context": "An agentic project coach that helps sustain creative work: momentum tracking, portfolio building, decision support toward financial independence. Repo-less; needs a manifesto and an MVP.",
     "last_work": "",
     "last_commit_date": "",
-    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
+    "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
@@ -876,7 +816,7 @@
     "context": "Templates and tools for friend groups to build a 'Village Codex' - relationship contracts for neurodiverse communication and shared care. Connected to sinfonia-delusione; has a voice recording to transcribe.",
     "last_work": "",
     "last_commit_date": "",
-    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
+    "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
@@ -896,7 +836,7 @@
     "context": "An always-on intake agent that parses voice/text notes and auto-routes structured output across the project landscape. Whisper + Claude. Repo-less; first use case is the village-framework recording.",
     "last_work": "",
     "last_commit_date": "",
-    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
+    "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
@@ -916,7 +856,7 @@
     "context": "World of Warcraft lore exploration and documentation. On GitHub (private; originally GitLab), last touched early 2025; scope undefined. Moved to inactive 2026-04-24.",
     "last_work": "",
     "last_commit_date": "2026-10-02",
-    "manifesto_url": "https://github.com/skyn0t-logs/external-brain",
+    "manifesto_url": "",
     "kaleidoscope_url": "https://github.com/users/maerlined/projects/3"
   },
   {
