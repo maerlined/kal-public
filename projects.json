@@ -634,7 +634,7 @@
     "energy_cost": "balanced",
     "flavour": "Process as code",
     "context": "SOPs and operational docs, version-controlled. The meta layer that keeps everything else reproducible.",
-    "last_work": "Session tooling grew: a re-anchor step after compaction, status posting, an idle-compaction gate and a checks reader; install still pending.",
+    "last_work": "Settings and usage tools, a role matrix and an upkeep check merged; a background wake for idle sessions tested.",
     "last_commit_date": "2026-11-08",
     "public_url": "https://maerlined.github.io/sop-slop-showcase/",
     "public_label": "showcase"
