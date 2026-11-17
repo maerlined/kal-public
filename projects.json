@@ -200,6 +200,26 @@
     "public_label": ""
   },
   {
+    "id": "GAM-002",
+    "name": "process-playground",
+    "stage": "spark",
+    "type": "project",
+    "domain": "development",
+    "category": "creative",
+    "group": "projects",
+    "energy_focus": "immersive",
+    "energy_motivation": "whimsy",
+    "energy_scope": "technical",
+    "energy_exposure": "private",
+    "energy_cost": "rewarding",
+    "flavour": "A browser game where you learn a hard process by building it as a story; first up, a witches' coven explains VPN traffic.",
+    "context": "New spark; no repo yet.",
+    "last_work": "Placed in kaleidoscope.",
+    "last_commit_date": "",
+    "public_url": "",
+    "public_label": ""
+  },
+  {
     "id": "IRS-001",
     "name": "indie-research",
     "stage": "spark",
