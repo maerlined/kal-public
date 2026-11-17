@@ -175,7 +175,7 @@
     "flavour": "The knowledge layer \u2014 Obsidian vault, linking everything else",
     "context": "The EB vault (eb-vault repo, ~/EB) \u2014 system/quality/meta notes, project clusters, journal. Reads from kal-private, never writes into it. The vault's own CLAUDE.md, SOP Index, and Conventions govern it. Added to tracking 2026-10-02 (group-field redesign) \u2014 first entry for the vault itself, which previously had no kal-private status despite being substantial ongoing work.",
     "last_work": "Archive system (SOP - Archiving v1.0), unified-workspace-pipeline design, meta/ folder reorg logging, non-projects cleanup audit, tend correction \u2014 all 2026-10-02.",
-    "last_commit_date": "2026-11-17",
+    "last_commit_date": "2026-11-18",
     "public_url": "",
     "public_label": ""
   },
@@ -514,7 +514,7 @@
     "energy_cost": "balanced",
     "flavour": "What gets lost in compression",
     "context": "Private research; details private.",
-    "last_work": "Pre-registration being rewritten for public submission; the stage runner and coding rules in draft.",
+    "last_work": "Public pre-registration text in its final review rounds; the stage runner and coding rules in draft.",
     "last_commit_date": "2026-11-17",
     "public_url": "",
     "public_label": ""
@@ -635,7 +635,7 @@
     "flavour": "Process as code",
     "context": "SOPs and operational docs, version-controlled. The meta layer that keeps everything else reproducible.",
     "last_work": "Settings and usage tools, a role matrix and an upkeep check merged; a background wake for idle sessions tested.",
-    "last_commit_date": "2026-11-08",
+    "last_commit_date": "2026-11-18",
     "public_url": "https://maerlined.github.io/sop-slop-showcase/",
     "public_label": "showcase"
   },
