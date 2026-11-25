@@ -160,6 +160,26 @@
     "public_label": ""
   },
   {
+    "id": "DCK-001",
+    "name": "ducklinks",
+    "stage": "spark",
+    "type": "project",
+    "domain": "development",
+    "category": "tools",
+    "group": "projects",
+    "energy_focus": "fragmented",
+    "energy_motivation": "stack",
+    "energy_scope": "technical",
+    "energy_exposure": "public",
+    "energy_cost": "balanced",
+    "flavour": "A temporary shared link page for a group: everyone adds their handles once, everyone can connect with everyone.",
+    "context": "New spark; no repo yet.",
+    "last_work": "Placed in kaleidoscope.",
+    "last_commit_date": "",
+    "public_url": "",
+    "public_label": ""
+  },
+  {
     "id": "EBV-001",
     "name": "eb-vault",
     "stage": "evolving",
