@@ -700,6 +700,26 @@
     "public_label": ""
   },
   {
+    "id": "SPL-001",
+    "name": "spool",
+    "stage": "spark",
+    "type": "project",
+    "domain": "creative",
+    "category": "creative",
+    "group": "meta",
+    "energy_focus": "fragmented",
+    "energy_motivation": "whimsy",
+    "energy_scope": "creative",
+    "energy_exposure": "private",
+    "energy_cost": "rewarding",
+    "flavour": "A home for everything Twine: writing interactive stories, with Claude taking over the busywork.",
+    "context": "Open-ended, no expectations: anything to do with Twine lives here, including working out what Claude can help with.",
+    "last_work": "Placed in kaleidoscope; repo set up.",
+    "last_commit_date": "2026-11-25",
+    "public_url": "",
+    "public_label": ""
+  },
+  {
     "id": "SRL-001",
     "name": "strange-religion",
     "stage": "spark",
